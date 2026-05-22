@@ -2,7 +2,11 @@
 
 Este repositorio contiene la demostración del Pokebot, enfocado en la automatizacion del farmeo en el juego.
 
-> Nota: El código fuente completo se mantiene privado. 
+> Nota: El código fuente completo se mantiene privado.
+
+
+
+
 [![Showcase](https://img.youtube.com/vi/t5VTM1uwjd0/0.jpg)](https://youtu.be/t5VTM1uwjd0)
 
 ### Capacidades del Sistema
