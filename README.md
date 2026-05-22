@@ -2,18 +2,17 @@
 
 Este repositorio contiene la demostración del Pokebot, enfocado en la automatizacion del farmeo en el juego.
 
-> Nota: El código fuente completo se mantiene privado para garantizar la integridad del sistema. 
-<video src="NOMBRE_DE_TU_VIDEO.mp4" controls="true" width="100%"></video>
+> Nota: El código fuente completo se mantiene privado. 
+[![Showcase](https://img.youtube.com/vi/t5VTM1uwjd0/0.jpg)](https://youtu.be/t5VTM1uwjd0)
 
 ### Capacidades del Sistema
 El bot ha sido desarrollado bajo una arquitectura modular que permite:
-* Reconocimiento Visual: Sistema de detección en tiempo real para identificar eventos específicos en pantalla (Shinys, encuentros, hordas).
-* Navegación Autónoma: Motor de reproducción de rutas personalizadas con capacidad de grabación y lectura de waypoints.
-* Módulos: Lógica separada para farmeo económico (Payday), caza de variocolores (shinys) y actividades secundarias.
+* Reconocimiento OCR: Sistema de detección para identificar eventos específicos en pantalla (Shinys, encuentros, hordas).
+* Navegación: Motor de reproducción de rutas personalizadas con capacidad de grabación y lectura de waypoints.
+* Módulos: Lógica separada para farmeo (Payday), caza de variocolores (shinys) y actividades secundarias.
 * Gestión de Sesiones: Registro automático de resultados y configuración flexible mediante archivos JSON.
 
 ### Arquitectura del Proyecto
-La solución está estructurada para ser mantenible y escalable:
 
 ```text
 Pokebot/
