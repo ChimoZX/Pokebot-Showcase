@@ -9,8 +9,8 @@ Este repositorio contiene la demostración del Pokebot, enfocado en la automatiz
 
 [![Showcase](https://img.youtube.com/vi/t5VTM1uwjd0/0.jpg)](https://youtu.be/t5VTM1uwjd0)
 
-### Capacidades del Sistema
-El bot ha sido desarrollado bajo una arquitectura modular que permite:
+### Sistema
+El bot es modular asi que permite:
 * Reconocimiento OCR: Sistema de detección para identificar eventos específicos en pantalla (Shinys, encuentros, hordas).
 * Navegación: Motor de reproducción de rutas personalizadas con capacidad de grabación y lectura de waypoints.
 * Módulos: Lógica separada para farmeo (Payday), caza de variocolores (shinys) y actividades secundarias.
